@@ -11,6 +11,8 @@ Serverless Cooking Web-Application that reverses the process of looking up recip
 
 ![recipe search](https://user-images.githubusercontent.com/42480955/57983182-c6c80a80-7a03-11e9-9e95-0e194d99f821.PNG)
 
+![AWS architecture](https://user-images.githubusercontent.com/42480955/57983237-5e2d5d80-7a04-11e9-84c9-1cdac1a359b4.PNG)
+
 # Developed Using:
   - AWS (S3, Lambda, API Gateway, RDS, Elastic BeanStalk)
   - Chalice
