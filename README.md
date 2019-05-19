@@ -1,7 +1,8 @@
 # CookWarehouse
-Serverless Cooking Web-Application that reverses the process of looking up recipes, it provides users recipes that only include the ingredients they select rather than finding a recipe and afterwards determine if the ingredients are available. Other ways of obtaining recipes have also been implemented. 
+Serverless Cooking Web-Application that reverses the process of looking up recipes, it provides users recipes that only include the ingredients they select rather than finding a recipe and afterwards determine if the ingredients are available. Other ways of obtaining recipes have also been implemented. The Backend is developed using AWS components and almost everything on the webiste isn't hardcoded but rather retreived using the API I developed. 
 
 ![HomePage3](https://user-images.githubusercontent.com/42480955/57983179-c62f7400-7a03-11e9-9465-b985879b3ada.PNG)
+Home Page
 
 ![ingredients page](https://user-images.githubusercontent.com/42480955/57983180-c62f7400-7a03-11e9-98d4-ddae462fcdaa.PNG)
 
@@ -19,7 +20,7 @@ Serverless Cooking Web-Application that reverses the process of looking up recip
   - PHP
   - HTML5
   - JAVASCRIPT
-  
+    
 # Using chalice to create a Lambda Function and an API: 
   1. Create MySQL DB instance on Amazon RDS with the following schema with 3 main tables: Ingredients, Recipe_ingredients, and Recipes
   
