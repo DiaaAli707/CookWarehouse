@@ -18,7 +18,8 @@ Recipe display page
 Search by Recipe
 
 ![AWS architecture](https://user-images.githubusercontent.com/42480955/57983237-5e2d5d80-7a04-11e9-84c9-1cdac1a359b4.PNG)
- AWS architecture diagram
+
+AWS architecture diagram
 
 
 # Developed Using:
