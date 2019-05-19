@@ -38,4 +38,5 @@ Serverless Cooking Web-Application that reverses the process of looking up recip
   - Within the file there are multiple API routes that are the children of the parent API that is created for you once you create a chalice project. The parent API will have the same name as your chalice project name.
   - This is not a tutorial on how use chalice but rather showing how chalice was used to simplify the process of creating a lambda function and an API 
   - Make sure your crednetials are configured prior to deploying, otherwise it will not work.
+  - Ignore the directions section in the 3rd picture, I used the same directions for all recipes to make life simple :)
 
