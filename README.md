@@ -5,14 +5,19 @@ Serverless Cooking Web-Application that reverses the process of looking up recip
 Home Page
 
 ![ingredients page](https://user-images.githubusercontent.com/42480955/57983180-c62f7400-7a03-11e9-98d4-ddae462fcdaa.PNG)
+Ingredients Page
 
 ![search ingredients](https://user-images.githubusercontent.com/42480955/57983183-c6c80a80-7a03-11e9-9124-819e6f3d89f4.PNG)
+Searching by ingredients 
 
 ![recipe displayed](https://user-images.githubusercontent.com/42480955/57983181-c6c80a80-7a03-11e9-94d9-7645a1aea88a.PNG)
+Recipe display page
 
 ![recipe search](https://user-images.githubusercontent.com/42480955/57983182-c6c80a80-7a03-11e9-9e95-0e194d99f821.PNG)
+Search by Recipe
 
 ![AWS architecture](https://user-images.githubusercontent.com/42480955/57983237-5e2d5d80-7a04-11e9-84c9-1cdac1a359b4.PNG)
+AWS architecture diagram
 
 # Developed Using:
   - AWS (S3, Lambda, API Gateway, RDS, Elastic BeanStalk)
