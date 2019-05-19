@@ -1,6 +1,6 @@
 # CookWarehouse
 Serverless Cooking Web-Application that reverses the process of looking up recipes, it provides users recipes that only include the ingredients they select rather than finding a recipe and afterwards determine if the ingredients are available. Other ways of obtaining recipes have also been implemented. The Backend is developed using AWS components and almost everything on the webiste isn't hardcoded but rather retreived using the API I developed. 
-\n
+
 
 ![HomePage3](https://user-images.githubusercontent.com/42480955/57983179-c62f7400-7a03-11e9-9465-b985879b3ada.PNG)
 Home Page
@@ -18,7 +18,7 @@ Recipe display page
 Search by Recipe
 
 ![AWS architecture](https://user-images.githubusercontent.com/42480955/57983237-5e2d5d80-7a04-11e9-84c9-1cdac1a359b4.PNG)
-AWS architecture diagram
+ AWS architecture diagram
 
 
 # Developed Using:
