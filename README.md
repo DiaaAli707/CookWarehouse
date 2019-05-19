@@ -35,7 +35,7 @@ Serverless Cooking Web-Application that reverses the process of looking up recip
   
   4. Run the command 'Chalice deploy'
   
-# Note
+# Notes
   - The whole provided file is the Lambda function
   - Within the file there are multiple API routes that are the children of the parent API that is created for you once you create a chalice project. The parent API will have the same name as your chalice project name.
   - This is not a tutorial on how use chalice but rather showing how chalice was used to simplify the process of creating a lambda function and an API 
