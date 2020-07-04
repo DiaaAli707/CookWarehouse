@@ -1,8 +1,6 @@
 # CookWarehouse
 Serverless Cooking Web-Application that reverses the process of looking up recipes, it provides users recipes that only include the ingredients they select rather than finding a recipe and afterwards determine if the ingredients are available. Other ways of obtaining recipes have also been implemented. The Backend is developed using AWS components and almost everything on the webiste isn't hardcoded but rather retreived using the API I developed. 
 
-Site link: http://cookwarehouse-env.jh8djhpmfj.us-east-2.elasticbeanstalk.com/
-
 
 ![HomePage3](https://user-images.githubusercontent.com/42480955/57983179-c62f7400-7a03-11e9-9465-b985879b3ada.PNG)
 Home Page
@@ -52,4 +50,5 @@ AWS architecture diagram
   - This is not a tutorial on how use chalice but rather showing how chalice was used to simplify the process of creating a lambda function and an API 
   - Make sure your crednetials are configured prior to deploying, otherwise it will not work.
   - Ignore the directions section in the 3rd picture, I used the same directions for all recipes to make life simple :)
+  - Entire project files aren't posted because I plan to keep working on it
 
